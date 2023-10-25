@@ -5,10 +5,3 @@ Your calculator to estimated calculation of your investment!
  ```shell
 npm i
 npm start
-
-
-
-
-
-
-
